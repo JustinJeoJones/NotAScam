@@ -1,0 +1,32 @@
+html,
+body {
+  margin: 0px;
+}
+h1 {
+  margin-top: 0px;
+}
+.background {
+  background-image: url("https://news.crunchbase.com/wp-content/uploads/2019/03/purple_money_rain.gif");
+}
+
+.Font {
+  font-family: "Rammetto One", cursive;
+}
+
+.centerText {
+  text-align: center;
+}
+.centerContainer {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+.topContainer {
+  background-color: rgba(0, 0, 0, 0.5);
+  border-bottom-left-radius: 25px;
+  border-bottom-right-radius: 25px;
+  color: rgb(255, 215, 0);
+  letter-spacing: 2px;
+}
